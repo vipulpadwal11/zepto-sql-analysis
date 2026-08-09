@@ -27,7 +27,6 @@ WHERE outOfStock = 1 AND mrp > 300
 ORDER BY mrp DESC;
 
 
-
 --3. Calculate inventory value for each category
 SELECT
 	Category,
@@ -45,7 +44,6 @@ SELECT
 FROM zepto
 WHERE mrp > 500 AND discountPercent < 10
 ORDER BY mrp DESC, discountPercent DESC;
-
 
 
 --5. Identify the top 5 categories offering the highest average discount percentage.
@@ -66,7 +64,6 @@ SELECT
 FROM zepto
 WHERE weightInGms >= 100
 ORDER BY price_per_gram;
-
 
 
 --7. Group the products into categories like Low, Medium, Bulk.
@@ -96,7 +93,6 @@ GROUP BY Category
 ORDER BY Inventory_wgt DESC;
 
 
-
 --9. Stockout rate by category
 SELECT
     Category,
@@ -120,9 +116,6 @@ FROM zepto
 WHERE mrp > 500
 GROUP BY Category
 ORDER BY premium_products DESC;
-
-
-
 
 
 --11. Inventory concentration- Calculate what percentage of total inventory value each category holds
