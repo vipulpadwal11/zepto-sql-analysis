@@ -42,6 +42,7 @@ Zepto-SQL-Analytics/
 │   └── 04_business_insights.sql
 └── Report/
     └── Zepto_Business_Report.pdf
+```
 
 ## 🛠️ Tools & Skills
 - Microsoft SQL Server
