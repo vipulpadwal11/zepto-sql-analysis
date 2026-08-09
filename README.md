@@ -5,7 +5,7 @@ SQL-based analysis of Zepto's product, pricing, discount, and inventory data usi
 The project goes beyond querying the data — it explores the dataset, cleans it, identifies business patterns, and turns the findings into practical recommendations around inventory, pricing, and operations.
 
 <p align="center">
-  <img src="./https://github.com/vipulpadwal11/zepto-sql-analysis/blob/main/scripts/zepto-image.png" alt="Zepto SQL Data Analysis" width="500">
+  <img src="./scripts/zepto-image.png" alt="Zepto SQL Data Analysis" width="500">
 </p>
 
 ## 🎯 What I Analyzed
