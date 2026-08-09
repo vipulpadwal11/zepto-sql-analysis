@@ -8,9 +8,6 @@ analysis on product, category, pricing, and inventory fields.
 =============================================================================== */
 
 
-
-
-
 -- CHECK table & explore table
 SELECT * FROM zepto
 
@@ -45,7 +42,6 @@ SELECT
 	COUNT(*)
 FROM zepto
 GROUP BY outOfStock
-
 
 
 --product name present multiple time
