@@ -51,4 +51,4 @@ Zepto-SQL-Analytics/
 
 ## 📄 Business Report
 The detailed findings, business implications, and recommendations are documented here:
-![Zepto Business Report](https://drive.google.com/file/d/1UY0PwxrxXK2K0yek-uPTL3vZNlGmpBst/view?usp=sharing)
+[Zepto Business Report](https://drive.google.com/file/d/1UY0PwxrxXK2K0yek-uPTL3vZNlGmpBst/view?usp=sharing)
