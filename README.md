@@ -30,8 +30,8 @@ The findings were then translated into recommendations around **replenishment pl
 
 ## 🗂️ Project Structure
 
+```text
 Zepto-SQL-Analytics/
-│
 ├── README.md
 ├── dataset/
 │   └── zepto_ds.csv
