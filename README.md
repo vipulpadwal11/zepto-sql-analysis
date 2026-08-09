@@ -4,6 +4,8 @@ SQL-based analysis of Zepto's product, pricing, discount, and inventory data usi
 
 The project goes beyond querying the data — it explores the dataset, cleans it, identifies business patterns, and turns the findings into practical recommendations around inventory, pricing, and operations.
 
+[zepto image](https://www.credyfi.com/news/zepto-eyes-ipo-next-year-talks-with-investment-banks-underway)
+
 ## 🎯 What I Analyzed
 
 - Product pricing and discount patterns
